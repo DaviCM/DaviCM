@@ -1,2 +1,1 @@
-Olá, Mundo!
-Diretamente do Brasil!
+Nada relacionado a software.
